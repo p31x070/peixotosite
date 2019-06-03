@@ -2,7 +2,7 @@
 title: "Bem Vindo"
 date: 2019-06-03T01:09:17-03:00
 draft: false
-image: "bright.jpg"
+image: "down/bright.jpg"
 tags: ["news"]
 ---
 <p align="justify"> Olá,</p>
