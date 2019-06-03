@@ -1,4 +1,4 @@
-baseurl         = "https://www.luizpeixoto.com"
+baseurl         = ""
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
