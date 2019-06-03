@@ -5,12 +5,12 @@ draft: false
 image: "down/bright.jpg"
 tags: ["news"]
 ---
-<p align="justify"> Olá,</p>
+ Olá,
 
-<p align="justify"> Vamos precisar de vários documentos. Eles são importantes para que eu possa dar um parecer inicial sobre o caso e quais medidas tomaremos.</p>
+ Vamos precisar de vários documentos. Eles são importantes para que eu possa dar um parecer inicial sobre o caso e quais medidas tomaremos.
 
-<p align="justify"> Caso decidamos ajuizar uma ação, ara o processo eletrônico, precisaremos digitalizar tudo.</p>
+ Caso decidamos ajuizar uma ação, ara o processo eletrônico, precisaremos digitalizar tudo.
 
-<p align="justify">Não se assuste, existem ferramentas para facilitar todo o processo.  As principais dúvidas serão tiradas aqui.  E, a qualquer momento você poderá fazer contato.</p>
+Não se assuste, existem ferramentas para facilitar todo o processo.  As principais dúvidas serão tiradas aqui.  E, a qualquer momento você poderá fazer contato.
 
-<p aling="justify"> Aqui você encontrará algumas instruções.</p>
+Aqui você encontrará algumas instruções.
