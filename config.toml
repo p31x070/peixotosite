@@ -1,0 +1,60 @@
+baseurl         = "https://www.luizpeixoto.com"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Luiz Peixoto"
+  subtitle    = "Advocacia e Consultoria"
+
+  cover       = "down/buildings.jpg"
+  description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "@adv_luizpeixoto"
+  fbName = "luizpeixoto.adv"
+  githubName = "p31x070"
+
+  logo = ""
+  orgName = "Luiz Peixoto"
+  orgWebsite = "https://www.luizpeixoto.com"
+  orgDescription = ""
+
+  author = "Luiz Peixoto"
+  authorAvatar = "Avatar.jpeg"
+  authorLocation = "Rio de Janeiro, BR"
+  authorWebsite = "https://github.com/p31x070"
+  authorDescription = "Advogado"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Início"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Ações"
+  url = "/tags/ac/"
+  weight = 100
+
+[[menu.main]]
+  name = "Notícias"
+  url = "/categories/news/"
+  weight = 99
+
+[[menu.main]]
+  name = "Segurança Digital"
+  url = "https://securityinabox.org/pt/"
+  weight = 95
