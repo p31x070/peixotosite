@@ -1,5 +1,5 @@
 ---
-title: "Escaneie o Qr-code com o Celular"
+title: "Qrcode"
 date: 2019-06-03T02:34:04-03:00
 draft: false
 image: "down/qr-codep1.png"
