@@ -8,6 +8,6 @@ tags: ["ac"]
 
 *Escaneie com o Celular
 
-<img src="https://github.com/p31x070/peixotosite/blob/master/static/down/qr-code.png" alt="some text" width=60 height=60>
+<img src="https://github.com/p31x070/peixotosite/blob/master/static/down/qr-codep.png" alt="some text" width=60 height=60>
 
 Insira meu contato em sua agenda telefônica.
