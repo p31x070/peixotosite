@@ -3,6 +3,7 @@ title: "Agenda"
 date: 2019-06-03T05:24:56-03:00
 draft: false
 image: "down/arches.jpg"
+tags: ["Iniciar"]
 categories: ["comunicação"]
 ---
 # Consulte a disponibilidade de horários

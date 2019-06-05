@@ -2,6 +2,8 @@
 title: "Relações Cliente Advogado"
 date: 2019-06-04T23:27:05-03:00
 draft: false
+tags: ["Ética"]
+
 ---
 
 # Relações Cliente Advogado
