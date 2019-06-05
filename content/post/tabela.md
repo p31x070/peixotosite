@@ -27,6 +27,6 @@ Parágrafo único. Não há causa criminal indigna de defesa, cumprindo ao advog
 
 ## Tire suas dúvidas:
 
-Consulte o código de ética, e estabeleça uma boa relação desde o início.  A relação de confiança está baseada em integridade das comunicações, clareza e concisão; depende do esforço conjunto do cliente e do advogado.
+Consulte o código de ética. Construa uma boa relação desde o início.  Confiança depende de integridade, clareza e eficiência das comunicações. Precisa do esforço conjunto do cliente e do advogado.
 
 **<a data-disable-linkrewriter="true" data-modal-video="" data-modal-size="854x480" target="modal-frame" href="https://www.oab.org.br/arquivos/resolucao-n-022015-ced-2030601765.pdf" class=" unifyCta">Acesse o Código de Ética e Disciplina da OAB</a>**
