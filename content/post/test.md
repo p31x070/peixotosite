@@ -2,7 +2,7 @@
 title: "Documentos"
 date: 2019-06-03T01:56:17-03:00
 draft: false
-image: ""
+image: "down/inaki.jpg"
 tags: ["Iniciar"]
 categories: ["notícias"]
 ---
