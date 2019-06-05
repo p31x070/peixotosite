@@ -8,11 +8,11 @@ draft: false
 
 Se precisa de consulta, observe alguns pontos o Código de Ética e Disciplina da Ordem dos Advogados do Brasil –OAB:
 
-Art. 14. O advogado não deve aceitar procuração de quem já tenha patrono constituído, sem prévio conhecimento deste, salvo por motivo plenamente justificável ou para adoção de medidas judiciais urgentes e inadiáveis.
+Art. 14. O advogado não deve aceitar procuração de quem já tenha patrono constituído, **_sem prévio conhecimento deste_**, salvo por motivo plenamente justificável ou para adoção de medidas judiciais urgentes e inadiáveis.
 
 # Sobre Honorários:
 
-Art. 48., §  6º  Deverá  o  advogado  observar  o  valor  mínimo  da  Tabela  de  Honorários  instituída pelo  respectivo  Conselho  Seccional  onde  for  realizado  o  serviço,  inclusive  aquele referente às diligências, sob pena de caracterizar-seaviltamento de honorários.
+Art. 48., §  6º  Deverá  o  advogado  observar  o  _valor  mínimo  da  Tabela  de  Honorários_  instituída pelo  respectivo  Conselho  Seccional  onde  for  realizado  o  serviço,  inclusive  aquele referente às diligências, sob pena de caracterizar-seaviltamento de honorários.
 
 **<a data-disable-linkrewriter="true" data-modal-video="" data-modal-size="854x480" target="modal-frame" href="http://www.oabrj.org.br/tabela-de-honorarios" class=" unifyCta">Acesse a tabela de honorários mínimos atualizada da OAB/RJ</a>**
 
