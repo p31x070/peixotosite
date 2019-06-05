@@ -6,6 +6,4 @@ image: "down/qr-codep1.png"
 tags: ["ac"]
 ---
 
-Insira meu contato em sua agenda telefônica.
-
-<https://raw.githubusercontent.com/p31x070/peixotosite/master/static/down/qr-code.png>
+Para inserir meus contatos em sua agenda, basta escanear o QR-code.
