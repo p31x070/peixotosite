@@ -3,7 +3,7 @@ title: "Privacidade"
 date: 2019-06-01T16:35:59-03:00
 draft: false
 image: "cone.jpg"
-tags: ["Iniciar, segurança"]
+tags: ["segurança"]
 ---
 
 ## Muita Atenção
