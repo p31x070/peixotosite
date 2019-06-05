@@ -56,5 +56,5 @@ paginate        = 6
 
 [[menu.main]]
   name = "Segurança Digital"
-  url = "https://securityinabox.org/pt/"
+  url = "/tags/segurança"
   weight = 95

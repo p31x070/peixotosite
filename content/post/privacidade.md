@@ -1,19 +1,19 @@
 ---
 title: "Privacidade"
 date: 2019-06-01T16:35:59-03:00
-draft: true
+draft: false
 image: "cone.jpg"
-tags: ["Iniciar"]
+tags: ["Iniciar, segurança"]
 ---
 
-Você deve estar se perguntando o porquê de um site com um nome tão complicato ou o porquê este site só abre no Tor.
+## Muita Atenção
 
-A reposta é simples, o site não foi feito para todos, foi feito para você, estará no ar apenas enquanto atender a suas necessidades e nos horários que você for acessar.
+A privacidade e o sigilo se tornaram um desafio enorme com as novas tecnologias de informação.  Nem sempre a lei consegue acompanhar o processo e, como quem não se ajuda não é ajudado, não vamos ficar esperando o problema acontecer para depois lamentar.
 
-Tudo isto para preservar sua privacidade e os dados que serão armazenados conosco.
+Todos temos informações sigilosas.  É preciso propagar o uso de práticas e ferramentas para privacidade seja uma realidade, não apenas um direito previsto em lei.
 
-Ultimamente temos assistido aterrorizados a tendencia de violação das correspondências de advogados e clientes, ou a violação dos escritórios.
+A experiência de mais de duas décadas dedicados a prática na proteção de testemunhas, apuração de casos de violação de direitos, deu acesso às modernas tecnologias aplicadas à proteção da privacidade. Preservar sua intimidade também depende de você.
 
-Por isso, precisamos nos proteger antes que um problema assim torne impossível uma defesa.  A solução são as ferramentas que vamos compartilhar.
+<a data-disable-linkrewriter="true" data-modal-video="" data-modal-size="854x480" target="modal-frame" href="https://securityinabox.org/pt/" class=" unifyCta">Confira os aplicativos que utilizamos.</a>
 
-Demora e dá trabalho no início, mas quem tenta fazer rápido e sem cuidado coloca em risco todos a si e a todos que trabalham em seu favor.
+Agende uma oficina.
