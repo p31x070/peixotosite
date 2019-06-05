@@ -6,11 +6,9 @@ image: "cone.jpg"
 tags: ["segurança"]
 ---
 
-Privacidade e sigilo se tornaram um desafio enorme nos dias de hoje.
+Privacidade é um desafio nos dias de hoje. Boas práticas e ferramentas adequadas são condição para que a privacidade seja uma realidade. Tenha acesso às mais modernas tecnologias aplicadas a questão.
 
-Propagar boas práticas e ferramentas é condição para que a privacidade seja uma realidade, não apenas um direito previsto em lei.
-
-Tenha acesso às modernas tecnologias aplicadas à proteção da sua privacidade.
+Leia mais...
 
 <a data-disable-linkrewriter="true" data-modal-video="" data-modal-size="854x480" target="modal-frame" href="https://securityinabox.org/pt/" class=" unifyCta">Confira os aplicativos que utilizamos.</a>
 
