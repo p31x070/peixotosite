@@ -7,7 +7,7 @@ tags: ["Iniciar"]
 categories: ["notícias"]
 ---
 
-#Primeiros Passos
+## Primeiros Passos
 
 1. Vamos precisar de documentos para o processo.
 2. Há um formato específico exigido no processo eletrônico.
