@@ -6,11 +6,9 @@ image: "cone.jpg"
 tags: ["segurança"]
 ---
 
-## Muita Atenção
+Privacidade e sigilo se tornaram um desafio enorme nos dias de hoje.
 
-A privacidade e o sigilo se tornaram um desafio enorme com as novas tecnologias de informação.
-
-É preciso propagar o uso de práticas e ferramentas para privacidade seja uma realidade, não apenas um direito previsto em lei.
+Propagar boas práticas e ferramentas é condição para que a privacidade seja uma realidade, não apenas um direito previsto em lei.
 
 Tenha acesso às modernas tecnologias aplicadas à proteção da sua privacidade.
 
