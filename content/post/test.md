@@ -11,7 +11,6 @@ categories: ["news"]
 
 1. Vamos precisar de documentos para o processo.
 2. Os documentos precisam estar em um formato específico para serem juntados ao processo eletrônico.
-3. Baixe o aplicativo [Adobe Scan](https://acrobat.adobe.com/br/pt/mobile/scanner-app.html).
+3. **<a data-disable-linkrewriter="true" data-modal-video="" data-modal-size="854x480" target="modal-frame" href="https://acrobat.adobe.com/br/pt/mobile/scanner-app.html" class=" unifyCta">Baixe o aplicativo Adobe Scan</a>**
 
 <a data-disable-linkrewriter="true" data-modal-video="" data-modal-size="854x480" target="modal-frame" href="https://video.tv.adobe.com/v/18742t1/?autoplay=true" class=" unifyCta">Veja o Adobe Scan na prática</a>
-
