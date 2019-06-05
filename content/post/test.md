@@ -7,8 +7,6 @@ tags: ["Iniciar"]
 categories: ["notícias"]
 ---
 
-## Primeiros Passos
-
 1. Vamos precisar de documentos para o processo.
 2. Há um formato específico exigido no processo eletrônico.
 3. **<a data-disable-linkrewriter="true" data-modal-video="" data-modal-size="854x480" target="modal-frame" href="https://acrobat.adobe.com/br/pt/mobile/scanner-app.html" class=" unifyCta">Baixe o aplicativo Adobe Scan e resolva a questão</a>**
