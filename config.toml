@@ -46,7 +46,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Primeiros Passos"
-  url = "/tags/ac/"
+  url = "/tags/Iniciar/"
   weight = 100
 
 [[menu.main]]
@@ -58,8 +58,3 @@ paginate        = 6
   name = "Segurança Digital"
   url = "https://securityinabox.org/pt/"
   weight = 95
-
-[[menu.main]]
-  name = "Notícias"
-  url = "/categories/notícias"
-  weight = 80  
