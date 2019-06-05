@@ -51,7 +51,7 @@ paginate        = 6
 
 [[menu.main]]
   name = "Importante"
-  url = "/categories/news/"
+  url = "/categories/comunicação/"
   weight = 99
 
 [[menu.main]]
@@ -60,6 +60,6 @@ paginate        = 6
   weight = 95
 
 [[menu.main]]
-  name = "Segurança Digital"
-  url = "https://securityinabox.org/pt/"
+  name = "Notícias"
+  url = "/categories/notícias"
   weight = 80  
