@@ -10,9 +10,9 @@ paginate        = 6
   subtitle    = "Advocacia e Consultoria"
 
   cover       = "down/buildings.jpg"
-  description = "Advocacia e Consultoria com Segurança Digital"
-  metaDescription = ""
-  googleAnalytics = ""
+  description = "Advocacia e Consultoria"
+  metaDescription = "Luiz Peixoto Advocacia e Consultoria"
+  googleAnalytics = "UA-141660439-1"
   customCSS = []
   RSSLink = ""
 
